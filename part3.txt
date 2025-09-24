@@ -1,3 +1,7 @@
 1. What word was changed in 'text/time-machine.txt'
 
+The word "red" was replaced by "green".
+
 2. What did the script do to the file 'text/last-question.txt'
+
+It replaced the word "question" by a question mark "?".
